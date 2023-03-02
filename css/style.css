@@ -5,7 +5,7 @@
     font-family: 'Fredoka One', cursive;
 }
 
-header{
+header, main{
     max-width: 1000px;
     margin: 0 auto;
     background-color: white;
@@ -24,4 +24,9 @@ h2{
     font-weight: lighter;
     margin-top: 80px;
     text-align: center;
+}
+
+img{
+    height: 7rem;
+    float: left;
 }
